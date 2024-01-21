@@ -2,6 +2,10 @@
 
 I'm Paco Gonzalez-Blanch, I'm a computer engineer from Spain working on some personal software here.
 
+You can find me on other platforms to:
+https://www.x.com/fgblanch
+https://www.linkedin.com/u/fgblanch
+
 <!--
 **fgblanch/fgblanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
